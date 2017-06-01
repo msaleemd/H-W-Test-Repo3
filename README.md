@@ -12,3 +12,5 @@ H-W test repository 3 for testing desktop github integration
    
 --* Subsequently added line from Desktop Git *--
 
+--- Check diff between commit and pull ---
+--- multiple commits will be pulled via a single code change or pull request ---
