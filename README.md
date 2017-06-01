@@ -12,3 +12,4 @@ H-W test repository 3 for testing desktop github integration
    
 --* Subsequently added line from Desktop Git *--
 
+--- Parallel check for Commit vs Pull via a new branch from master ---
