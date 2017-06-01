@@ -9,3 +9,6 @@ H-W test repository 3 for testing desktop github integration
 --- Including lines from online Github ---
 --- Another line from o/l Github ---
 --- End of online GitHub add to onlineBranch2 ---
+   
+--* Subsequently added line from Desktop Git *--
+
